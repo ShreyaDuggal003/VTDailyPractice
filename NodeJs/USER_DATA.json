@@ -1,0 +1,34 @@
+[
+    {
+        "id": 3,
+        "first_name": "Tyrus",
+        "last_name": "Bente",
+        "email": "tbente2@dedecms.com",
+        "city": "Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 4,
+        "first_name": "Daron",
+        "last_name": "Matusevich",
+        "email": "dmatusevich3@indiatimes.com",
+        "city": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 6,
+        "first_name": "Jane",
+        "last_name": "Jeaves",
+        "email": "njeaves5@exblog.jp",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 7,
+        "first_name": "Ewell",
+        "last_name": "Bunker",
+        "email": "ebunker6@t.co",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    }
+]
