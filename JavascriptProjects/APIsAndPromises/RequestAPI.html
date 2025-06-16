@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Request</title>
+</head>
+<body>
+    
+</body>
+<script>
+    
+    const requestUrl = 'https://api.github.com/users/theshreyaduggal'
+    const xhr = new XMLHttpRequest(); //need to make an obj of the request
+
+    xhr.open('GET', requestUrl); //open function is created 
+
+    //function is to be created to get continuous changing state
+    xhr.onreadystatechange = function () {
+        console.log(xhr.readyState) //to get the state
+
+        if (xhr.readyState === 4)
+        {
+            const data = JSON.parse(this.responseText); //need to be converted into JSON as original type is string
+            console.log(data);
+            console.log(data.id);
+        }
+    }
+        
+    xhr.send();
+
+</script>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul id="images">
+        <!-- <li >one</li>
+        <li >two</li>
+        <li >three</li> -->
+        <li><img id="scene1" src="sceneOne.jpg"></li>
+        <li><img id="scene2" src="sceneTwo.jpg"></li>
+        <li><img id="scene3" src="sceneThree.jpg"></li>
+        <li ><a style="color: #000"; href="https://www.google.co.in/"; id="google">Google</a></li>
+    </ul>
+</body>
+<script>
+    // document.getElementById('google').addEventListener('click', (e) => {
+    //     e.preventDefault();
+    //     console.log("google clicked");
+    // })
+
+    // document.getElementById('numbers').addEventListener('click', (e) => {
+    //     console.log(e.target);
+    //     console.log(e.target.parentNode);
+
+    //     let removeIt = e.target;
+    //     removeIt.remove();
+
+    //     // removeIt.parentNode.removeChild(removeIt);
+    // })
+
+    //here if i click on ul all data will get deleted
+    // document.querySelector('#images').addEventListener('click', (e) => {
+    //     console.log(e.target);
+    //     console.log(e.target.parentNode);
+
+    //     let removeIt = e.target.parentNode;
+    //     console.log(removeIt);
+    //     removeIt.remove();
+
+    //     // removeIt.parentNode.removeChild(removeIt);
+    // })
+
+
+    document.querySelector('#images').addEventListener('click', (e) => {
+        console.log(e.target.tagName)
+
+        if (e.target.tagName === "IMG")
+        {
+            let removeIt = e.target.parentNode;
+            console.log(removeIt);
+            removeIt.remove();
+        }
+        
+
+        // removeIt.parentNode.removeChild(removeIt);
+    })
+</script>
+</html>

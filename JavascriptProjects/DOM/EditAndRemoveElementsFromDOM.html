@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EditAndRemoveElements</title>
+</head>
+<body style="background-color: #212121; color: #f1f1f1f1">
+    <ul class="language">
+        <li>Javascript</li>
+    </ul>
+</body>
+<script>
+    //Add
+    function addlanguage(lang)
+    {
+        const li = document.createElement('li');
+        // li.innerHTML = lang //not optimised
+
+        li.appendChild(document.createTextNode(lang)); //more optimised
+
+        document.querySelector('.language').appendChild(li);
+    }
+
+    addlanguage("Java")
+    addlanguage("Python")
+    addlanguage("React")
+    addlanguage("TypeScript")
+
+    function editlanguageOne(lang, num) //Method1
+    {
+        const secondLang = document.querySelector(`li:nth-child(${num})`);
+        // secondlang.innerHTML = "C++"  //not optimised
+        const newLi = document.createElement('li');
+        // newLi.textContent = "C++" //also not optimised
+
+        newLi.appendChild(document.createTextNode(lang));
+        secondLang.replaceWith(newLi);
+    }
+    
+    editlanguageOne('C++',3)
+
+    function editlanguageTwo() //Method2
+    {
+        const firstLang = document.querySelector("li:nth-child(1)");
+        firstLang.outerHTML = '<li> Ruby </li>'
+    }
+
+    // editlanguageTwo()
+
+    function removeLanguage()
+    {
+        const last = document.querySelector("li:last-child")
+        last.remove();
+    }
+
+    // removeLanguage();
+
+</script>
+</html>

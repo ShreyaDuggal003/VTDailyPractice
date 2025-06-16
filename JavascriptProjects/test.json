@@ -1,0 +1,5097 @@
+[
+    {
+        "RecipeID": "1739792919423",
+        "RecipeName": "API recipe edit test agin",
+        "Meal_Type": "Breakfast",
+        "Consumption_Date": "2025-05-02",
+        "TotalMeals": "4",
+        "Quantity": "56.0",
+        "UpdateMode": "Consumption",
+        "products": [
+            {
+                "ProductID": "165",
+                "Product": "BEEF BRISKET BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "56.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-04-21",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "16.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "10.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-04-23",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-04-29",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6457",
+                "Product": "ICEBERG LETTUCE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6454",
+                "Product": "LEEK FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6455",
+                "Product": "LEMONGRASS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6465",
+                "Product": "ONION WHITE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6427",
+                "Product": "BELL PEPPER GREEN FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6428",
+                "Product": "BELL PEPPER RED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6470",
+                "Product": "POTATO FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6471",
+                "Product": "PUMPKIN RED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6474",
+                "Product": "RED RADISH (REDDIKER) FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6479",
+                "Product": "SPINACH LEAVES FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6441",
+                "Product": "CELERY FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6484",
+                "Product": "TOMATO FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6485",
+                "Product": "WHITE TURNIP FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2917",
+                "Product": "APPLE RED FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2933",
+                "Product": "HONEYDEW MELON FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2944",
+                "Product": "PEAR GREEN FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2946",
+                "Product": "PINEAPPLE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2950",
+                "Product": "WATERMELON FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "165",
+                "Product": "BEEF BRISKET BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "168",
+                "Product": "BEEF GROUND FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "184",
+                "Product": "BEEF SIRLOIN BUTT/RUMP BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "172",
+                "Product": "BEEF LOIN T BONE STEAK BONE IN FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3459",
+                "Product": "SMOKED BACK BACON SLICED FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4346",
+                "Product": "PORK BELLY BONELESS SKIN ON FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7241",
+                "Product": "PORK CHOPS SLICES",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4368",
+                "Product": "PORK TENDERLOIN BONELESS FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4351",
+                "Product": "PORK KNUCKLE BONE IN FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4354",
+                "Product": "PORK LIVER FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4366",
+                "Product": "PORK SPARE RIBS BONE IN FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4399",
+                "Product": "CHICKEN BREAST FILLET FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4402",
+                "Product": "CHICKEN LEG QUARTER FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3423",
+                "Product": "BREADED CHICKEN NUGGETS FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4405",
+                "Product": "CHICKEN WHOLE DRESSED FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4406",
+                "Product": "CHICKEN WINGS FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4677",
+                "Product": "FISH DRIED (DAING)",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4449",
+                "Product": "ATLANTIC MACKEREL WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4454",
+                "Product": "MILKFISH WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4440",
+                "Product": "CREAM DORY/PANGASIUS FILLET FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4474",
+                "Product": "TILAPIA WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3659",
+                "Product": "BARBECUE SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3418",
+                "Product": "BEEF SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3446",
+                "Product": "PORK BRATWURST SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3502",
+                "Product": "PUREFOODS TENDER JUICY HOTDOG CLASSIC FROZEN, 1.8KGM/PA",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3426",
+                "Product": "CHICKEN BRATWURST SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3508",
+                "Product": "CORNED BEEF IN CAN, 210GRM/PCE",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3619",
+                "Product": "COOKED HAM FROZEN, 455GRM/PA",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7418",
+                "Product": "Herrings Fillet In Sauce Assorted",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4809",
+                "Product": "MACKEREL FILLET IN OIL, 120GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4659",
+                "Product": "MACKEREL FILLET IN TOMATO SAUCE, 110GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4348",
+                "Product": "PORK BLOOD FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4678",
+                "Product": "SARDINES IN TOMATO SAUCE, 120GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4667",
+                "Product": "TUNA CHUNKS IN OIL, 120GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6703",
+                "Product": "GREEN ASPARAGUS SPEARS, 800GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5804",
+                "Product": "RED CABBAGE WITH APPLE, 720MLT/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6731",
+                "Product": "CAPERS IN VINEGAR, 100GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2999",
+                "Product": "BLACK RAISINS",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3021",
+                "Product": "FRUIT COCKTAIL IN SYRUP, 425GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6763",
+                "Product": "PICKLED GHERKINS, 700GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6791",
+                "Product": "MUSHROOMS SLICED IN CAN, 183GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6719",
+                "Product": "BLACK OLIVES PITTED, 340GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6724",
+                "Product": "GREEN OLIVES PITTED, 340GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3016",
+                "Product": "PINEAPPLE SLICES IN JUICE, 565GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6768",
+                "Product": "WHOLE PEELED TOMATOES IN CAN, 390GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1976",
+                "Product": "UNSALTED BUTTER, 250GRM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2691",
+                "Product": "VEGETABLE COOKING OIL, 15LTR/PCE",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2689",
+                "Product": "SUNFLOWER OIL, 10LTR/PCE",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7239",
+                "Product": "COFFEE MATE (WHITENER) , 1KGM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2002",
+                "Product": "SWEETENED CONDENSED MILK, 380GRM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1946",
+                "Product": "EGGS FRESH",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1938",
+                "Product": "EVAPORATED MILK, 340GRM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1948",
+                "Product": "FRESH WHOLE/FULL CREAM MILK, 1LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2041",
+                "Product": "LONG LIFE WHOLE/FULL CREAM MILK 1.5% FAT, 1LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1818",
+                "Product": "POWDERED COFFEE CREAMER, 1KGM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1980",
+                "Product": "WHIPPING CREAM, 1LTR/PA",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2012",
+                "Product": "ASSORTED FRUIT YOGHURT, 125GRM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3205",
+                "Product": "NUTELLA HAZELNUT CHOCOLATE SPREAD, 140GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3196",
+                "Product": "SMOOTH/CREAMY PEANUT BUTTER, 350GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "225",
+                "Product": "APPLE JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "230",
+                "Product": "MANGO JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "231",
+                "Product": "ORANGE JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "233",
+                "Product": "PINEAPPLE JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "237",
+                "Product": "TOMATO JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5292",
+                "Product": "WHITE VINEGAR, 1LTR/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6599",
+                "Product": "BROCCOLI FLORETS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6600",
+                "Product": "BRUSSELS SPROUTS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7143",
+                "Product": "FRENCH FRIES CRINKLE CUT FROZEN, 1.6KGM/PA",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7139",
+                "Product": "POTATO CROQUETTES FROZEN, 1KGM/PA",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6610",
+                "Product": "SPINACH LEAVES FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3864",
+                "Product": "MUNG BEANS WHOLE (GREEN MOONG DAL), 1KGM/PA",
+                "Category": "NUTS, SEEDS & LEGUMES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "790",
+                "Product": "BAKING POWDER",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "844",
+                "Product": "PLAIN BREAD CRUMBS",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5313",
+                "Product": "BROWN SUGAR",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "832",
+                "Product": "CAKE MIX ASSORTED, 500GRM/PA",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2800",
+                "Product": "CORN STARCH, 500GRM/PA",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4056",
+                "Product": "ASSORTED INSTANT CUP NOODLES SOUP, 60GRM X 24PCE/CT",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2793",
+                "Product": "WHITE RYE FLOUR",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4034",
+                "Product": "RICE NOODLES",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2782",
+                "Product": "JASMINE RICE",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5205",
+                "Product": "REFINED WHITE SUGAR",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "831",
+                "Product": "INSTANT DRY YEAST",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "811",
+                "Product": "HAMBURGER BUNS, 12PCE/PA",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "845",
+                "Product": "MULTIGRAIN BREAD ROLLS",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "873",
+                "Product": "WHITE BREAD LOAF SLICED, 1.2KGM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4945",
+                "Product": "BEEF BOUILLON POWDER",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4952",
+                "Product": "CHICKEN STOCK CUBE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4938",
+                "Product": "CLASSIC ASPARAGUS SOUP MIX POWDER",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5227",
+                "Product": "THOUSAND ISLAND DRESSING, 200MLT/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4706",
+                "Product": "SALTED SHRIMP PASTE (BAGOONG ALAMANG), 340GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5368",
+                "Product": "TABASCO RED PEPPER SAUCE ORIGINAL, 100MLT/PCE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5420",
+                "Product": "HEINZ TOMATO KETCHUP, 340GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5317",
+                "Product": "MAYONNAISE, 500MLT/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5386",
+                "Product": "OYSTER SAUCE, 500MLT/PCE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5367",
+                "Product": "SOY SAUCE, 610MLT/PCE",
+                "Category": "SOYBEAN PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5888",
+                "Product": "BASIL LEAVES FRESH",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5264",
+                "Product": "CHILI POWDER",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5236",
+                "Product": "CINNAMON GROUND, 400GRM/PCE",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5330",
+                "Product": "CURRY POWDER, 400GRM/PCE",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6336",
+                "Product": "DILL LEAVES DRIED /KGM",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6422",
+                "Product": "PARSLEY LEAVES FLAKES DRIED /KGM",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5241",
+                "Product": "ROSEMARY LEAVES DRIED",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5326",
+                "Product": "THYME LEAVES SHREDDED DRIED",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5274",
+                "Product": "GROUND BLACK PEPPER",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5275",
+                "Product": "WHOLE BLACK PEPPER",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5372",
+                "Product": "IODIZED TABLE SALT, 1KGM/PCE",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5376",
+                "Product": "MAMA SITA'S SINIGANG SA SAMPALOK (TAMARIND SEASONING) MIX, 44GRM/PA",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "419",
+                "Product": "BUTTER COOKIES, 300GRM/PCE",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "401",
+                "Product": "DANISH BUTTER COOKIES (VANILJEKRANSE), 200GRM/PCE",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "397",
+                "Product": "GRAHAMS CRACKERS, 100GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1990",
+                "Product": "MAGNUM ICE CREAM BAR CLASSIC",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "394",
+                "Product": "M.Y. SAN SKYFLAKES CRACKER SANDWICH CONDENSADA, 600GRM/PCE",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7473",
+                "Product": "Vanilla Cream Cookies",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "396",
+                "Product": "CREAM WAFERS ASSORTED, 180GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1826",
+                "Product": "NESQUIK CHOCOLATE POWDER DRINK MIX, 1KGM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1627",
+                "Product": "ASSORTED FRUIT TEA BAG, 20PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1843",
+                "Product": "GREEN TEA BAGS, 25PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1835",
+                "Product": "JACOBS KRONUNG GROUND COFFEE, 250GRM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1833",
+                "Product": "LIPTON YELLOW LABEL BLACK TEA BAGS, 100PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1822",
+                "Product": "NESCAFE GOLD INSTANT COFFEE, 100GRM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6513",
+                "Product": "ICEBERG LETTUCE FRESH PER PACK",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6510",
+                "Product": "CHAMPIGNON MUSHROOM FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6486",
+                "Product": "ZUCCHINI GREEN FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6482",
+                "Product": "SWEET POTATO FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6475",
+                "Product": "WHITE RADISH FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2919",
+                "Product": "BANANA FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2922",
+                "Product": "GRAPES GREEN FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2931",
+                "Product": "MANGO RIPE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "164",
+                "Product": "BEEF BONES FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "166",
+                "Product": "BEEF CHUCK ROLL BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "170",
+                "Product": "BEEF LIVER FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "173",
+                "Product": "BEEF OXTAIL FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "177",
+                "Product": "BEEF RUMP ROAST (SILVERSIDE) BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "183",
+                "Product": "BEEF TONGUE FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "185",
+                "Product": "BEEF TRIPE FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4393",
+                "Product": "PORK BELLY BONE IN SKINLESS FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4386",
+                "Product": "PORK EARS FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4370",
+                "Product": "PORK HEAD WHOLE FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7242",
+                "Product": "PORK LOIN SMOKED BONE IN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4349",
+                "Product": "PORK GROUND FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4361",
+                "Product": "PORK NECK BONELESS FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4367",
+                "Product": "PORK SUCKLING PIG FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3382",
+                "Product": "LAMB LEG BONE IN FROZEN",
+                "Category": "LAMB & MUTTON",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4408",
+                "Product": "DUCK WHOLE DRESSED FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4404",
+                "Product": "CHICKEN LIVER FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4401",
+                "Product": "CHICKEN GIZZARD FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4432",
+                "Product": "SQUID WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4486",
+                "Product": "BLACK TIGER PRAWN HEAD ON SHELL ON (26/30) FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4468",
+                "Product": "SALMON PINK WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3657",
+                "Product": "ASSORTED COLD CUTS FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3440",
+                "Product": "MORTADELLA BOLOGNA SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3439",
+                "Product": "MILANO SALAMI FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3467",
+                "Product": "MOLOCHNAYA BOILED SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3670",
+                "Product": "JAGDWURST/HUNTING SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3471",
+                "Product": "KRAKOVSKA SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3498",
+                "Product": "PORK SAUSAGE FROZEN, 1KGM/PA",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7240",
+                "Product": "THUERINGER SAUSAGE",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1964",
+                "Product": "CHEDDAR CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1959",
+                "Product": "MOZARELLA CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1932",
+                "Product": "CREAM CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4656",
+                "Product": "HERRING FILLET IN TOMATO SAUCE, 240GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4672",
+                "Product": "SARDINES IN OIL, 100GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3412",
+                "Product": "BEEF LUNCHEON MEAT IN CAN, 340GRM/PCE",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6715",
+                "Product": "TOMATO PASTE, 850GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2669",
+                "Product": "OLIVE OIL",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3004",
+                "Product": "COCONUT MILK, 400MLT/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3183",
+                "Product": "HONEY, 500GRM/PCE",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3167",
+                "Product": "APRICOT JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3173",
+                "Product": "MIXED FRUIT JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3172",
+                "Product": "CHERRY JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3174",
+                "Product": "ORANGE JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3177",
+                "Product": "RASPBERRY JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3200",
+                "Product": "STRAWBERRY JAM, 470GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "238",
+                "Product": "TROPICAL PUNCH JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6431",
+                "Product": "BITTER MELON/BITTER GOURD FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2907",
+                "Product": "STRAWBERRY FROZEN",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1433",
+                "Product": "CORN FLAKES CEREAL, 375GRM/PA",
+                "Category": "CEREALS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1440",
+                "Product": "ROLLED OATS CEREAL QUICK COOKING, 450GRM/PA",
+                "Category": "CEREALS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4053",
+                "Product": "ASSORTED INSTANT NOODLES SOUP, 85GRM X 24PA/CT",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4024",
+                "Product": "SHELL MACARONI PASTA",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4032",
+                "Product": "SPAGHETTI PASTA",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "810",
+                "Product": "FRENCH BAGUETTE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4944",
+                "Product": "CHICKEN BOUILLON POWDER",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4935",
+                "Product": "CREAM OF MUSHROOM SOUP MIX POWDER",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5378",
+                "Product": "MAGGI LIQUID SEASONING, 200MLT/PCE",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5160",
+                "Product": "TOMATO KETCHUP, 340GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5332",
+                "Product": "BARBECUE SAUCE, 355GRM/PCE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5149",
+                "Product": "SAMBAL OELEK CHILI PASTE, 200GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5224",
+                "Product": "TURMERIC GROUND",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "400",
+                "Product": "CREAM CRACKERS, 200GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5395",
+                "Product": "HERSHEY'S CHOCOLATE SYRUP, 680MLT/PCE",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5377",
+                "Product": "CHOCOLATE TOPPING SAUCE",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2010",
+                "Product": "SELECTA CORNETTO ICE CREAM IN CONE ASSORTED FLAVOR",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1840",
+                "Product": "PEPPERMINT TEA BAGS, 25PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1856",
+                "Product": "ARABICA COFFEE BEANS",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "583",
+                "Product": "CHOCOLATE CHIP COOKIES, 200GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7280",
+                "Product": "Ice Cream Vanilla 5 liters",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7281",
+                "Product": "Ice Cream chocolate 5 liters",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2259",
+                "Product": "ICE CREAM VANILLA FLAVOR, 1.42LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2263",
+                "Product": "ICE CREAM STRAWBERRY FLAVOR, 1.5LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2300",
+                "Product": "ICE CREAM CHOCOLATE FLAVOR, 1.42LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2416",
+                "Product": "ICE CREAM COOKIES AND CREAM FLAVOR, 1.5LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7282",
+                "Product": "Banana Flower for Cooking",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7479",
+                "Product": "chinese Tofu",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4490",
+                "Product": "BLACK MUSSELS WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4517",
+                "Product": "GOLDEN POMPANO WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6606",
+                "Product": "LADIES' FINGERS (OKRA) FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3428",
+                "Product": "CHICKEN HOTDOG SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6468",
+                "Product": "PARSLEY FLAT LEAF FRESH",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6607",
+                "Product": "MIXED VEGETABLES FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1994",
+                "Product": "ALL PURPOSE CREAM, 1LTR/PA",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5216",
+                "Product": "KIKKOMAN SOY SAUCE, 1LTR/PCE",
+                "Category": "SOYBEAN PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2928",
+                "Product": "LEMON FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6563",
+                "Product": "BRUSSELS SPROUTS FRESH /KGM",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6603",
+                "Product": "CAULIFLOWER FLORETS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6436",
+                "Product": "RED CABBAGE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5204",
+                "Product": "CONFECTIONERS/ICING SUGAR",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5110",
+                "Product": "HORSERADISH SAUCE, 330MLT/PCE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "577",
+                "Product": "COOKIES ASSORTED, 340GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1420",
+                "Product": "ALPEN ORIGINAL SWISS STYLE MUESLI CEREAL, 375GRM/PA",
+                "Category": "CEREALS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7142",
+                "Product": "VEGETABLE SPRING ROLLS FROZEN, 250GRM/PA",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7244",
+                "Product": "PEPPERONI, 370GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1601",
+                "Product": "NESCAFE GOLD INSTANT COFFEE, 200GRM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3009",
+                "Product": "PEACH HALVES IN LIGHT SYRUP, 820GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1827",
+                "Product": "CHAMOMILE TEA BAGS 20PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4009",
+                "Product": "FUSILLI PASTA",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6620",
+                "Product": "CORN ON THE COB FROZEN /KGM",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6437",
+                "Product": "WHITE CABBAGE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6511",
+                "Product": "FRENCH GREEN BEANS/HARICOT VERTS FRESH /KGM",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6425",
+                "Product": "BEAN SPROUTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2939",
+                "Product": "NAVEL ORANGE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2969",
+                "Product": "JACKFRUIT FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "182",
+                "Product": "BEEF TENDERLOIN BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4417",
+                "Product": "CHICKEN FEET FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4462",
+                "Product": "RED SNAPPER WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4448",
+                "Product": "KINGFISH STEAK FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3416",
+                "Product": "BEEF FRANKFURTER SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6695",
+                "Product": "BABY/YOUNG CORN WHOLE IN CAN, 425GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1968",
+                "Product": "SOUR CREAM, 1LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8340",
+                "Product": "Milk Semi-Skimmed 1,5%",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4004",
+                "Product": "ELBOW MACARONI PASTA",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5163",
+                "Product": "WASABI PASTE, 43GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "426",
+                "Product": "CREAM BISCUITS ASSORTED, 500GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1743",
+                "Product": "TWINNINGS ASSORTED BLACK TEA BAG, 20PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8443",
+                "Product": "Cabbage White, Fresh",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6480",
+                "Product": "SPRING ONION/SCALLION FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6491",
+                "Product": "BITTER GOURD (AMPALAYA) LEAVES FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2937",
+                "Product": "ORANGE CLEMENTINE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2921",
+                "Product": "GRAPEFRUIT FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8442",
+                "Product": "Fresh dried peanuts",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2791",
+                "Product": "WHITE RICE LONG GRAIN",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6460",
+                "Product": "LONG BEANS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2916",
+                "Product": "APPLE GREEN FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2918",
+                "Product": "AVOCADO FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2942",
+                "Product": "PAPAYA RIPE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2929",
+                "Product": "LIME FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8771",
+                "Product": "Fresh dried peanuts",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "181",
+                "Product": "BEEF STRIPLOIN/SIRLOIN BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "169",
+                "Product": "BEEF BURGER PATTY FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8444",
+                "Product": "Feet, Pork",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8772",
+                "Product": "Pork Butt",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3383",
+                "Product": "LAMB LOIN CHOPS BONE IN FROZEN",
+                "Category": "LAMB & MUTTON",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4436",
+                "Product": "COD FILLET FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4479",
+                "Product": "YELLOWFIN TUNA WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3495",
+                "Product": "SMOKED HAM SLICED FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3653",
+                "Product": "CHORIZO SALAMI FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1936",
+                "Product": "EDAM CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1943",
+                "Product": "FETA CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1949",
+                "Product": "GOUDA CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1963",
+                "Product": "PARMESAN CHEESE GRATED",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1928",
+                "Product": "CAMEMBERT CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1931",
+                "Product": "COTTAGE CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1982",
+                "Product": "YELLOW AMERICAN CHEESE SLICES",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8773",
+                "Product": "Heavy cream",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8774",
+                "Product": "Rice Flour",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3778",
+                "Product": "VIENNA SAUSAGE IN CAN, 230GRM/PCE",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6699",
+                "Product": "BEETROOT SLICED, 720GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3015",
+                "Product": "RED CHERRIES PITTED IN SYRUP, 425GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3010",
+                "Product": "PEAR HALVES IN HEAVY SYRUP, 825GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6780",
+                "Product": "BAKED BEANS IN TOMATO SAUCE, 410GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6777",
+                "Product": "MUSHROOMS WHOLE IN CAN, 2KGM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8775",
+                "Product": "Peas & Carrots 720 ml",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6760",
+                "Product": "GREEN PEAS IN CAN, 240GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8776",
+                "Product": "Bake Beans",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2664",
+                "Product": "MARGARINE, 500GRM/PCE",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2671",
+                "Product": "SESAME OIL",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8777",
+                "Product": "Fresh Yoghurt",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2054",
+                "Product": "PLAIN WHOLE MILK YOGHURT, 110MLT/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1925",
+                "Product": "BUTTERMILK, 1LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8778",
+                "Product": "Gelatine",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "229",
+                "Product": "GRAPEFRUIT JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8779",
+                "Product": "Lemon Syrup",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8780",
+                "Product": "Orange Syrup",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5262",
+                "Product": "STRAWBERRY SYRUP, 450MLT/PCE",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8781",
+                "Product": "Rice wine",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "314",
+                "Product": "RED COOKING WINE, 1LTR/PCE",
+                "Category": "COOKING WINE",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "315",
+                "Product": "WHITE COOKING WINE, 1LTR/PCE",
+                "Category": "COOKING WINE",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6601",
+                "Product": "CARROTS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6624",
+                "Product": "FRENCH GREEN BEANS/HARICOT VERTS CUTS FROZEN /KGM",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6611",
+                "Product": "WHOLE KERNEL CORN FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7267",
+                "Product": "PEAS AND CARROTS, FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6605",
+                "Product": "GREEN PEAS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7140",
+                "Product": "POTATO HASH BROWNS FROZEN, 1KGM/PA",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8782",
+                "Product": "carrot sliced",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3845",
+                "Product": "RED KIDNEY BEANS",
+                "Category": "NUTS, SEEDS & LEGUMES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3844",
+                "Product": "SPLIT GREEN LENTILS",
+                "Category": "NUTS, SEEDS & LEGUMES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3850",
+                "Product": "YELLOW PEAS SPLIT",
+                "Category": "NUTS, SEEDS & LEGUMES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8783",
+                "Product": "Cashew nut",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "799",
+                "Product": "FLAVOR/ESSENCE VANILLA, 25MLT/PCE",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "822",
+                "Product": "NATURAL UNSWEETENED COCOA POWDER, 400GRM/PCE",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4033",
+                "Product": "GLASS NOODLES",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "759",
+                "Product": "PUFF PASTRY SHEETS FROZEN, 1.5KGM/PA",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2780",
+                "Product": "GLUTINOUS RICE FLOUR",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "806",
+                "Product": "DARK CHOCOLATE VERMICELLI SPRINKLES",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8785",
+                "Product": "cake sprinklers",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1217",
+                "Product": "BLACK BREAD SLICED, 1KGM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "990",
+                "Product": "BROWN/WHOLE WHEAT BREAD LOAF SLICED, 1KGM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "909",
+                "Product": "BROWN/WHOLE WHEAT BREAD LOAF SLICED, 500GRM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1186",
+                "Product": "WHEAT RAISIN BREAD LOAF SLICED, 400GRM/PA",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6444",
+                "Product": "CHERRY TOMATO FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "9023",
+                "Product": "Fresh Yoghurt",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "952",
+                "Product": "WHITE BREAD LOAF SLICED, 750GRM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6457",
+                "Product": "ICEBERG LETTUCE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6454",
+                "Product": "LEEK FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6455",
+                "Product": "LEMONGRASS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6465",
+                "Product": "ONION WHITE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6427",
+                "Product": "BELL PEPPER GREEN FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6428",
+                "Product": "BELL PEPPER RED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6470",
+                "Product": "POTATO FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6471",
+                "Product": "PUMPKIN RED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6474",
+                "Product": "RED RADISH (REDDIKER) FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6479",
+                "Product": "SPINACH LEAVES FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6441",
+                "Product": "CELERY FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6484",
+                "Product": "TOMATO FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6485",
+                "Product": "WHITE TURNIP FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2917",
+                "Product": "APPLE RED FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2933",
+                "Product": "HONEYDEW MELON FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2944",
+                "Product": "PEAR GREEN FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2946",
+                "Product": "PINEAPPLE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2950",
+                "Product": "WATERMELON FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "168",
+                "Product": "BEEF GROUND FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "184",
+                "Product": "BEEF SIRLOIN BUTT/RUMP BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "172",
+                "Product": "BEEF LOIN T BONE STEAK BONE IN FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3459",
+                "Product": "SMOKED BACK BACON SLICED FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4346",
+                "Product": "PORK BELLY BONELESS SKIN ON FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7241",
+                "Product": "PORK CHOPS SLICES",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4368",
+                "Product": "PORK TENDERLOIN BONELESS FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4351",
+                "Product": "PORK KNUCKLE BONE IN FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4354",
+                "Product": "PORK LIVER FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4366",
+                "Product": "PORK SPARE RIBS BONE IN FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4399",
+                "Product": "CHICKEN BREAST FILLET FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4402",
+                "Product": "CHICKEN LEG QUARTER FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3423",
+                "Product": "BREADED CHICKEN NUGGETS FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4405",
+                "Product": "CHICKEN WHOLE DRESSED FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4406",
+                "Product": "CHICKEN WINGS FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4677",
+                "Product": "FISH DRIED (DAING)",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4449",
+                "Product": "ATLANTIC MACKEREL WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4454",
+                "Product": "MILKFISH WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4440",
+                "Product": "CREAM DORY/PANGASIUS FILLET FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4474",
+                "Product": "TILAPIA WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3659",
+                "Product": "BARBECUE SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3418",
+                "Product": "BEEF SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3446",
+                "Product": "PORK BRATWURST SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3502",
+                "Product": "PUREFOODS TENDER JUICY HOTDOG CLASSIC FROZEN, 1.8KGM/PA",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3426",
+                "Product": "CHICKEN BRATWURST SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3508",
+                "Product": "CORNED BEEF IN CAN, 210GRM/PCE",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3619",
+                "Product": "COOKED HAM FROZEN, 455GRM/PA",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7418",
+                "Product": "Herrings Fillet In Sauce Assorted",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4809",
+                "Product": "MACKEREL FILLET IN OIL, 120GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4659",
+                "Product": "MACKEREL FILLET IN TOMATO SAUCE, 110GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4348",
+                "Product": "PORK BLOOD FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4678",
+                "Product": "SARDINES IN TOMATO SAUCE, 120GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4667",
+                "Product": "TUNA CHUNKS IN OIL, 120GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6703",
+                "Product": "GREEN ASPARAGUS SPEARS, 800GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5804",
+                "Product": "RED CABBAGE WITH APPLE, 720MLT/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6731",
+                "Product": "CAPERS IN VINEGAR, 100GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2999",
+                "Product": "BLACK RAISINS",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3021",
+                "Product": "FRUIT COCKTAIL IN SYRUP, 425GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6763",
+                "Product": "PICKLED GHERKINS, 700GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6791",
+                "Product": "MUSHROOMS SLICED IN CAN, 183GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6719",
+                "Product": "BLACK OLIVES PITTED, 340GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6724",
+                "Product": "GREEN OLIVES PITTED, 340GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3016",
+                "Product": "PINEAPPLE SLICES IN JUICE, 565GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6768",
+                "Product": "WHOLE PEELED TOMATOES IN CAN, 390GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1976",
+                "Product": "UNSALTED BUTTER, 250GRM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2691",
+                "Product": "VEGETABLE COOKING OIL, 15LTR/PCE",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2689",
+                "Product": "SUNFLOWER OIL, 10LTR/PCE",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7239",
+                "Product": "COFFEE MATE (WHITENER) , 1KGM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2002",
+                "Product": "SWEETENED CONDENSED MILK, 380GRM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1946",
+                "Product": "EGGS FRESH",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1938",
+                "Product": "EVAPORATED MILK, 340GRM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1948",
+                "Product": "FRESH WHOLE/FULL CREAM MILK, 1LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2041",
+                "Product": "LONG LIFE WHOLE/FULL CREAM MILK 1.5% FAT, 1LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1818",
+                "Product": "POWDERED COFFEE CREAMER, 1KGM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2012",
+                "Product": "ASSORTED FRUIT YOGHURT, 125GRM/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3205",
+                "Product": "NUTELLA HAZELNUT CHOCOLATE SPREAD, 140GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3196",
+                "Product": "SMOOTH/CREAMY PEANUT BUTTER, 350GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "225",
+                "Product": "APPLE JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "230",
+                "Product": "MANGO JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "231",
+                "Product": "ORANGE JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "237",
+                "Product": "TOMATO JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5292",
+                "Product": "WHITE VINEGAR, 1LTR/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6599",
+                "Product": "BROCCOLI FLORETS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6600",
+                "Product": "BRUSSELS SPROUTS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7143",
+                "Product": "FRENCH FRIES CRINKLE CUT FROZEN, 1.6KGM/PA",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7139",
+                "Product": "POTATO CROQUETTES FROZEN, 1KGM/PA",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6610",
+                "Product": "SPINACH LEAVES FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3864",
+                "Product": "MUNG BEANS WHOLE (GREEN MOONG DAL), 1KGM/PA",
+                "Category": "NUTS, SEEDS & LEGUMES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "790",
+                "Product": "BAKING POWDER",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "844",
+                "Product": "PLAIN BREAD CRUMBS",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5313",
+                "Product": "BROWN SUGAR",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "832",
+                "Product": "CAKE MIX ASSORTED, 500GRM/PA",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2800",
+                "Product": "CORN STARCH, 500GRM/PA",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4056",
+                "Product": "ASSORTED INSTANT CUP NOODLES SOUP, 60GRM X 24PCE/CT",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2793",
+                "Product": "WHITE RYE FLOUR",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4034",
+                "Product": "RICE NOODLES",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2782",
+                "Product": "JASMINE RICE",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5205",
+                "Product": "REFINED WHITE SUGAR",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "831",
+                "Product": "INSTANT DRY YEAST",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "811",
+                "Product": "HAMBURGER BUNS, 12PCE/PA",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "845",
+                "Product": "MULTIGRAIN BREAD ROLLS",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "873",
+                "Product": "WHITE BREAD LOAF SLICED, 1.2KGM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4945",
+                "Product": "BEEF BOUILLON POWDER",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4952",
+                "Product": "CHICKEN STOCK CUBE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4938",
+                "Product": "CLASSIC ASPARAGUS SOUP MIX POWDER",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5227",
+                "Product": "THOUSAND ISLAND DRESSING, 200MLT/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4706",
+                "Product": "SALTED SHRIMP PASTE (BAGOONG ALAMANG), 340GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5368",
+                "Product": "TABASCO RED PEPPER SAUCE ORIGINAL, 100MLT/PCE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5420",
+                "Product": "HEINZ TOMATO KETCHUP, 340GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5317",
+                "Product": "MAYONNAISE, 500MLT/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5386",
+                "Product": "OYSTER SAUCE, 500MLT/PCE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5367",
+                "Product": "SOY SAUCE, 610MLT/PCE",
+                "Category": "SOYBEAN PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5888",
+                "Product": "BASIL LEAVES FRESH",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5264",
+                "Product": "CHILI POWDER",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5236",
+                "Product": "CINNAMON GROUND, 400GRM/PCE",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5330",
+                "Product": "CURRY POWDER, 400GRM/PCE",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6336",
+                "Product": "DILL LEAVES DRIED /KGM",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6422",
+                "Product": "PARSLEY LEAVES FLAKES DRIED /KGM",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5241",
+                "Product": "ROSEMARY LEAVES DRIED",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5326",
+                "Product": "THYME LEAVES SHREDDED DRIED",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5274",
+                "Product": "GROUND BLACK PEPPER",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5275",
+                "Product": "WHOLE BLACK PEPPER",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5372",
+                "Product": "IODIZED TABLE SALT, 1KGM/PCE",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5376",
+                "Product": "MAMA SITA'S SINIGANG SA SAMPALOK (TAMARIND SEASONING) MIX, 44GRM/PA",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "419",
+                "Product": "BUTTER COOKIES, 300GRM/PCE",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "401",
+                "Product": "DANISH BUTTER COOKIES (VANILJEKRANSE), 200GRM/PCE",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "397",
+                "Product": "GRAHAMS CRACKERS, 100GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1990",
+                "Product": "MAGNUM ICE CREAM BAR CLASSIC",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "394",
+                "Product": "M.Y. SAN SKYFLAKES CRACKER SANDWICH CONDENSADA, 600GRM/PCE",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7473",
+                "Product": "Vanilla Cream Cookies",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "396",
+                "Product": "CREAM WAFERS ASSORTED, 180GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1826",
+                "Product": "NESQUIK CHOCOLATE POWDER DRINK MIX, 1KGM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1627",
+                "Product": "ASSORTED FRUIT TEA BAG, 20PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1843",
+                "Product": "GREEN TEA BAGS, 25PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1835",
+                "Product": "JACOBS KRONUNG GROUND COFFEE, 250GRM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1833",
+                "Product": "LIPTON YELLOW LABEL BLACK TEA BAGS, 100PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1822",
+                "Product": "NESCAFE GOLD INSTANT COFFEE, 100GRM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6513",
+                "Product": "ICEBERG LETTUCE FRESH PER PACK",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6510",
+                "Product": "CHAMPIGNON MUSHROOM FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6486",
+                "Product": "ZUCCHINI GREEN FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6482",
+                "Product": "SWEET POTATO FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6475",
+                "Product": "WHITE RADISH FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2919",
+                "Product": "BANANA FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2922",
+                "Product": "GRAPES GREEN FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2931",
+                "Product": "MANGO RIPE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "170",
+                "Product": "BEEF LIVER FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "173",
+                "Product": "BEEF OXTAIL FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "177",
+                "Product": "BEEF RUMP ROAST (SILVERSIDE) BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "183",
+                "Product": "BEEF TONGUE FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "185",
+                "Product": "BEEF TRIPE FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4393",
+                "Product": "PORK BELLY BONE IN SKINLESS FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4386",
+                "Product": "PORK EARS FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4370",
+                "Product": "PORK HEAD WHOLE FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7242",
+                "Product": "PORK LOIN SMOKED BONE IN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4349",
+                "Product": "PORK GROUND FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4361",
+                "Product": "PORK NECK BONELESS FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4367",
+                "Product": "PORK SUCKLING PIG FROZEN",
+                "Category": "PORK",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3382",
+                "Product": "LAMB LEG BONE IN FROZEN",
+                "Category": "LAMB & MUTTON",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4408",
+                "Product": "DUCK WHOLE DRESSED FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4404",
+                "Product": "CHICKEN LIVER FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4401",
+                "Product": "CHICKEN GIZZARD FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4432",
+                "Product": "SQUID WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4486",
+                "Product": "BLACK TIGER PRAWN HEAD ON SHELL ON (26/30) FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4468",
+                "Product": "SALMON PINK WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3657",
+                "Product": "ASSORTED COLD CUTS FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3440",
+                "Product": "MORTADELLA BOLOGNA SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3439",
+                "Product": "MILANO SALAMI FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3467",
+                "Product": "MOLOCHNAYA BOILED SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3670",
+                "Product": "JAGDWURST/HUNTING SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3471",
+                "Product": "KRAKOVSKA SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3498",
+                "Product": "PORK SAUSAGE FROZEN, 1KGM/PA",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7240",
+                "Product": "THUERINGER SAUSAGE",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1964",
+                "Product": "CHEDDAR CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1959",
+                "Product": "MOZARELLA CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1932",
+                "Product": "CREAM CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4656",
+                "Product": "HERRING FILLET IN TOMATO SAUCE, 240GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4672",
+                "Product": "SARDINES IN OIL, 100GRM/PCE",
+                "Category": "SEAFOOD, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3412",
+                "Product": "BEEF LUNCHEON MEAT IN CAN, 340GRM/PCE",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6715",
+                "Product": "TOMATO PASTE, 850GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2669",
+                "Product": "OLIVE OIL",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3004",
+                "Product": "COCONUT MILK, 400MLT/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3183",
+                "Product": "HONEY, 500GRM/PCE",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3167",
+                "Product": "APRICOT JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3173",
+                "Product": "MIXED FRUIT JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3172",
+                "Product": "CHERRY JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3174",
+                "Product": "ORANGE JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3177",
+                "Product": "RASPBERRY JAM, 450GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3200",
+                "Product": "STRAWBERRY JAM, 470GRM/PCE",
+                "Category": "JAMS, MARMALADE & SPREADS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "238",
+                "Product": "TROPICAL PUNCH JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6431",
+                "Product": "BITTER MELON/BITTER GOURD FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2907",
+                "Product": "STRAWBERRY FROZEN",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1433",
+                "Product": "CORN FLAKES CEREAL, 375GRM/PA",
+                "Category": "CEREALS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1440",
+                "Product": "ROLLED OATS CEREAL QUICK COOKING, 450GRM/PA",
+                "Category": "CEREALS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4053",
+                "Product": "ASSORTED INSTANT NOODLES SOUP, 85GRM X 24PA/CT",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4024",
+                "Product": "SHELL MACARONI PASTA",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "810",
+                "Product": "FRENCH BAGUETTE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4944",
+                "Product": "CHICKEN BOUILLON POWDER",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4935",
+                "Product": "CREAM OF MUSHROOM SOUP MIX POWDER",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5378",
+                "Product": "MAGGI LIQUID SEASONING, 200MLT/PCE",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5160",
+                "Product": "TOMATO KETCHUP, 340GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5332",
+                "Product": "BARBECUE SAUCE, 355GRM/PCE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5149",
+                "Product": "SAMBAL OELEK CHILI PASTE, 200GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5224",
+                "Product": "TURMERIC GROUND",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "400",
+                "Product": "CREAM CRACKERS, 200GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5395",
+                "Product": "HERSHEY'S CHOCOLATE SYRUP, 680MLT/PCE",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5377",
+                "Product": "CHOCOLATE TOPPING SAUCE",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2010",
+                "Product": "SELECTA CORNETTO ICE CREAM IN CONE ASSORTED FLAVOR",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1840",
+                "Product": "PEPPERMINT TEA BAGS, 25PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1856",
+                "Product": "ARABICA COFFEE BEANS",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "583",
+                "Product": "CHOCOLATE CHIP COOKIES, 200GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7280",
+                "Product": "Ice Cream Vanilla 5 liters",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7281",
+                "Product": "Ice Cream chocolate 5 liters",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2259",
+                "Product": "ICE CREAM VANILLA FLAVOR, 1.42LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2263",
+                "Product": "ICE CREAM STRAWBERRY FLAVOR, 1.5LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2300",
+                "Product": "ICE CREAM CHOCOLATE FLAVOR, 1.42LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2416",
+                "Product": "ICE CREAM COOKIES AND CREAM FLAVOR, 1.5LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7282",
+                "Product": "Banana Flower for Cooking",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7479",
+                "Product": "chinese Tofu",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4490",
+                "Product": "BLACK MUSSELS WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4517",
+                "Product": "GOLDEN POMPANO WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6606",
+                "Product": "LADIES' FINGERS (OKRA) FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3428",
+                "Product": "CHICKEN HOTDOG SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6468",
+                "Product": "PARSLEY FLAT LEAF FRESH",
+                "Category": "SPICES, HERBS & SEASONINGS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6607",
+                "Product": "MIXED VEGETABLES FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1994",
+                "Product": "ALL PURPOSE CREAM, 1LTR/PA",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5216",
+                "Product": "KIKKOMAN SOY SAUCE, 1LTR/PCE",
+                "Category": "SOYBEAN PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2928",
+                "Product": "LEMON FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6563",
+                "Product": "BRUSSELS SPROUTS FRESH /KGM",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6603",
+                "Product": "CAULIFLOWER FLORETS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6436",
+                "Product": "RED CABBAGE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5204",
+                "Product": "CONFECTIONERS/ICING SUGAR",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5110",
+                "Product": "HORSERADISH SAUCE, 330MLT/PCE",
+                "Category": "SOUPS, SAUCES & GRAVIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "577",
+                "Product": "COOKIES ASSORTED, 340GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1420",
+                "Product": "ALPEN ORIGINAL SWISS STYLE MUESLI CEREAL, 375GRM/PA",
+                "Category": "CEREALS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7142",
+                "Product": "VEGETABLE SPRING ROLLS FROZEN, 250GRM/PA",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7244",
+                "Product": "PEPPERONI, 370GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1601",
+                "Product": "NESCAFE GOLD INSTANT COFFEE, 200GRM/PCE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3009",
+                "Product": "PEACH HALVES IN LIGHT SYRUP, 820GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1827",
+                "Product": "CHAMOMILE TEA BAGS 20PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4009",
+                "Product": "FUSILLI PASTA",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6620",
+                "Product": "CORN ON THE COB FROZEN /KGM",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6437",
+                "Product": "WHITE CABBAGE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6511",
+                "Product": "FRENCH GREEN BEANS/HARICOT VERTS FRESH /KGM",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6425",
+                "Product": "BEAN SPROUTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2939",
+                "Product": "NAVEL ORANGE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2969",
+                "Product": "JACKFRUIT FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "182",
+                "Product": "BEEF TENDERLOIN BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4417",
+                "Product": "CHICKEN FEET FROZEN",
+                "Category": "POULTRY",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4462",
+                "Product": "RED SNAPPER WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4448",
+                "Product": "KINGFISH STEAK FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3416",
+                "Product": "BEEF FRANKFURTER SAUSAGE FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6695",
+                "Product": "BABY/YOUNG CORN WHOLE IN CAN, 425GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1968",
+                "Product": "SOUR CREAM, 1LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8340",
+                "Product": "Milk Semi-Skimmed 1,5%",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4004",
+                "Product": "ELBOW MACARONI PASTA",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5163",
+                "Product": "WASABI PASTE, 43GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "426",
+                "Product": "CREAM BISCUITS ASSORTED, 500GRM/PA",
+                "Category": "BISCUITS, COOKIES & CRACKERS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1743",
+                "Product": "TWINNINGS ASSORTED BLACK TEA BAG, 20PCE/PA",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8443",
+                "Product": "Cabbage White, Fresh",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6480",
+                "Product": "SPRING ONION/SCALLION FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6491",
+                "Product": "BITTER GOURD (AMPALAYA) LEAVES FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2937",
+                "Product": "ORANGE CLEMENTINE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2921",
+                "Product": "GRAPEFRUIT FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8442",
+                "Product": "Fresh dried peanuts",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2791",
+                "Product": "WHITE RICE LONG GRAIN",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6460",
+                "Product": "LONG BEANS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2916",
+                "Product": "APPLE GREEN FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2918",
+                "Product": "AVOCADO FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2942",
+                "Product": "PAPAYA RIPE FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2929",
+                "Product": "LIME FRESH",
+                "Category": "FRUITS, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8771",
+                "Product": "Fresh dried peanuts",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "181",
+                "Product": "BEEF STRIPLOIN/SIRLOIN BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "169",
+                "Product": "BEEF BURGER PATTY FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8444",
+                "Product": "Feet, Pork",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8772",
+                "Product": "Pork Butt",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3383",
+                "Product": "LAMB LOIN CHOPS BONE IN FROZEN",
+                "Category": "LAMB & MUTTON",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4436",
+                "Product": "COD FILLET FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4479",
+                "Product": "YELLOWFIN TUNA WHOLE FROZEN",
+                "Category": "SEAFOOD",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3495",
+                "Product": "SMOKED HAM SLICED FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3653",
+                "Product": "CHORIZO SALAMI FROZEN",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1936",
+                "Product": "EDAM CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1943",
+                "Product": "FETA CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1949",
+                "Product": "GOUDA CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1963",
+                "Product": "PARMESAN CHEESE GRATED",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1928",
+                "Product": "CAMEMBERT CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1931",
+                "Product": "COTTAGE CHEESE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1982",
+                "Product": "YELLOW AMERICAN CHEESE SLICES",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8773",
+                "Product": "Heavy cream",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8774",
+                "Product": "Rice Flour",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3778",
+                "Product": "VIENNA SAUSAGE IN CAN, 230GRM/PCE",
+                "Category": "MEAT, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6699",
+                "Product": "BEETROOT SLICED, 720GRM/PCE",
+                "Category": "CONDIMENTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3015",
+                "Product": "RED CHERRIES PITTED IN SYRUP, 425GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3010",
+                "Product": "PEAR HALVES IN HEAVY SYRUP, 825GRM/PCE",
+                "Category": "FRUITS, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6780",
+                "Product": "BAKED BEANS IN TOMATO SAUCE, 410GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6777",
+                "Product": "MUSHROOMS WHOLE IN CAN, 2KGM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8775",
+                "Product": "Peas & Carrots 720 ml",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6760",
+                "Product": "GREEN PEAS IN CAN, 240GRM/PCE",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8776",
+                "Product": "Bake Beans",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2664",
+                "Product": "MARGARINE, 500GRM/PCE",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2671",
+                "Product": "SESAME OIL",
+                "Category": "FATS & OILS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8777",
+                "Product": "Fresh Yoghurt",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2054",
+                "Product": "PLAIN WHOLE MILK YOGHURT, 110MLT/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1925",
+                "Product": "BUTTERMILK, 1LTR/PCE",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8778",
+                "Product": "Gelatine",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "229",
+                "Product": "GRAPEFRUIT JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8779",
+                "Product": "Lemon Syrup",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8780",
+                "Product": "Orange Syrup",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "5262",
+                "Product": "STRAWBERRY SYRUP, 450MLT/PCE",
+                "Category": "SUGAR & SYRUPS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8781",
+                "Product": "Rice wine",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "315",
+                "Product": "WHITE COOKING WINE, 1LTR/PCE",
+                "Category": "COOKING WINE",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6601",
+                "Product": "CARROTS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6624",
+                "Product": "FRENCH GREEN BEANS/HARICOT VERTS CUTS FROZEN /KGM",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6611",
+                "Product": "WHOLE KERNEL CORN FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7267",
+                "Product": "PEAS AND CARROTS, FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6605",
+                "Product": "GREEN PEAS FROZEN",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "7140",
+                "Product": "POTATO HASH BROWNS FROZEN, 1KGM/PA",
+                "Category": "VEGETABLES, PROCESSED",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8782",
+                "Product": "carrot sliced",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3845",
+                "Product": "RED KIDNEY BEANS",
+                "Category": "NUTS, SEEDS & LEGUMES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3844",
+                "Product": "SPLIT GREEN LENTILS",
+                "Category": "NUTS, SEEDS & LEGUMES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "3850",
+                "Product": "YELLOW PEAS SPLIT",
+                "Category": "NUTS, SEEDS & LEGUMES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8783",
+                "Product": "Cashew nut",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "799",
+                "Product": "FLAVOR/ESSENCE VANILLA, 25MLT/PCE",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "822",
+                "Product": "NATURAL UNSWEETENED COCOA POWDER, 400GRM/PCE",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4033",
+                "Product": "GLASS NOODLES",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "759",
+                "Product": "PUFF PASTRY SHEETS FROZEN, 1.5KGM/PA",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "2780",
+                "Product": "GLUTINOUS RICE FLOUR",
+                "Category": "FLOUR & GRAINS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "806",
+                "Product": "DARK CHOCOLATE VERMICELLI SPRINKLES",
+                "Category": "BAKING INGREDIENTS & MIXES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "8785",
+                "Product": "cake sprinklers",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1217",
+                "Product": "BLACK BREAD SLICED, 1KGM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "990",
+                "Product": "BROWN/WHOLE WHEAT BREAD LOAF SLICED, 1KGM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "909",
+                "Product": "BROWN/WHOLE WHEAT BREAD LOAF SLICED, 500GRM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1186",
+                "Product": "WHEAT RAISIN BREAD LOAF SLICED, 400GRM/PA",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6444",
+                "Product": "CHERRY TOMATO FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "9023",
+                "Product": "Fresh Yoghurt",
+                "Category": null,
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "952",
+                "Product": "WHITE BREAD LOAF SLICED, 750GRM/PCE",
+                "Category": "BREADS, CAKES & PASTRIES",
+                "Quantity": "0.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": "20240427130401",
+        "RecipeName": "Roasted rosemary chicken",
+        "Meal_Type": "Breakfast",
+        "Consumption_Date": "2025-04-30",
+        "TotalMeals": "22",
+        "Quantity": "5.0",
+        "UpdateMode": "Consumption",
+        "products": [
+            {
+                "ProductID": "233",
+                "Product": "PINEAPPLE JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "5.0"
+            },
+            {
+                "ProductID": "314",
+                "Product": "RED COOKING WINE, 1LTR/PCE",
+                "Category": "COOKING WINE",
+                "Quantity": "1.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-05-02",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "165",
+                "Product": "BEEF BRISKET BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "1980",
+                "Product": "WHIPPING CREAM, 1LTR/PA",
+                "Category": "EGGS & DAIRY PRODUCTS",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "233",
+                "Product": "PINEAPPLE JUICE",
+                "Category": "BEVERAGES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "164",
+                "Product": "BEEF BONES FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "166",
+                "Product": "BEEF CHUCK ROLL BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "4032",
+                "Product": "SPAGHETTI PASTA",
+                "Category": "PASTA & NOODLES",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "314",
+                "Product": "RED COOKING WINE, 1LTR/PCE",
+                "Category": "COOKING WINE",
+                "Quantity": "0.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-05-01",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-03-30",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-04-30",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-05-30",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6494",
+                "Product": "CABBAGE CHINESE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6438",
+                "Product": "CARROTS FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6440",
+                "Product": "CAULIFLOWER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6443",
+                "Product": "CHAYOTE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6492",
+                "Product": "LONG RED CHILI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6446",
+                "Product": "CUCUMBER REGULAR FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6448",
+                "Product": "EGGPLANT/AUBERGINE FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6449",
+                "Product": "GARLIC UNPEELED FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6450",
+                "Product": "GINGER FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": null,
+        "RecipeName": "",
+        "Meal_Type": null,
+        "Consumption_Date": "2025-01-30",
+        "TotalMeals": null,
+        "Quantity": "0.0",
+        "UpdateMode": "MonthlyCheck Update",
+        "products": [
+            {
+                "ProductID": "6426",
+                "Product": "BEETROOT FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            },
+            {
+                "ProductID": "6432",
+                "Product": "BROCCOLI FRESH",
+                "Category": "VEGETABLES, FRESH & FROZEN",
+                "Quantity": "0.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": "1739681384145",
+        "RecipeName": "Test three",
+        "Meal_Type": "Breakfast",
+        "Consumption_Date": "2025-05-05",
+        "TotalMeals": "20",
+        "Quantity": "10.0",
+        "UpdateMode": "Consumption",
+        "products": [
+            {
+                "ProductID": "165",
+                "Product": "BEEF BRISKET BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "10.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": "17464307295576110",
+        "RecipeName": "",
+        "Meal_Type": "Breakfast",
+        "Consumption_Date": "2025-05-05",
+        "TotalMeals": "20",
+        "Quantity": "10.0",
+        "UpdateMode": "Consumption",
+        "products": [
+            {
+                "ProductID": "164",
+                "Product": "BEEF BONES FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "10.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": "17464309215411723",
+        "RecipeName": "",
+        "Meal_Type": "Breakfast",
+        "Consumption_Date": "2025-05-05",
+        "TotalMeals": "20",
+        "Quantity": "1.0",
+        "UpdateMode": "Consumption",
+        "products": [
+            {
+                "ProductID": "164",
+                "Product": "BEEF BONES FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "1.0"
+            }
+        ]
+    },
+    {
+        "RecipeID": "987676565657",
+        "RecipeName": "API recipe edit test",
+        "Meal_Type": "Snack",
+        "Consumption_Date": "2025-05-05",
+        "TotalMeals": "20",
+        "Quantity": "1.0",
+        "UpdateMode": "Consumption",
+        "products": [
+            {
+                "ProductID": "164",
+                "Product": "BEEF BONES FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "1.0"
+            }
+        ]
+    },
+    {
+        "RecipeName": "Test three",
+        "RecipeID": "1739681384145",
+        "Meal_Type": "Snack",
+        "Consumption_Date": "2025-05-06",
+        "TotalMeals": "12",
+        "products": [
+            {
+                "ProductID": "165",
+                "Product": "BEEF BRISKET BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "264.00"
+            },
+            {
+                "ProductID": "164",
+                "Product": "BEEF BONES FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "120.00"
+            },
+            {
+                "ProductID": "166",
+                "Product": "BEEF CHUCK ROLL BONELESS FROZEN",
+                "Category": "BEEF & VEAL",
+                "Quantity": "120.00"
+            }
+        ],
+        "UpadteMode": "Consumption"
+    }
+]

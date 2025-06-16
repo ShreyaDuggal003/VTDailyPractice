@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProjectOne</title>
+    <style>
+        #btn{
+        padding: 13px;
+        border-radius: 5px;
+        font-size: 20px;
+        border: none;
+    }
+    </style>
+</head>
+<body>
+    <h1>I</h1>
+    <button id="btn">STOP</button>
+</body>
+<script>
+
+    let headings = ['I', 'hope', 'more', 'and', 'more', 'people', 'find', 'this', 'amazing', 'channel', 'where', 'you', 'make', 'things', 'so', 'easy', 'to', 'understand']
+
+    for (let i=1; i<headings.length; i++)
+    {
+        const printHeading = setTimeout(() => {
+            console.log(headings[i])
+
+            document.querySelector("h1").innerHTML = headings[i];
+            
+        }, i*1000);
+
+        printHeading;
+
+        document.querySelector('#btn').addEventListener('click', function(){
+            clearTimeout(printHeading);
+            console.log("STOPPED");
+        })
+    }
+
+</script>
+</html>

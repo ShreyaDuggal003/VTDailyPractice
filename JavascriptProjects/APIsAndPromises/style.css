@@ -1,0 +1,64 @@
+ #taskCard{
+            border: 1px solid grey;
+            width: 70vh;
+            min-height: 10vh;
+            margin: 120px;
+            padding-left:  10px;
+            padding-right: 10px;
+            padding-top: 15px;
+            padding-bottom: 15px;
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        /* input{
+        border: none;
+        font-size: 20px;
+        padding: 5px;
+        field-sizing: content;
+        }
+        input:focus{
+            outline: none;
+            border: none;
+            width: 100%;
+            field-sizing: content;
+        } */
+    #btn{
+        display: flex;
+        gap: 15px;
+        justify-content: right;
+    }
+    .button{
+        padding: 13px;
+        border-radius: 5px;
+        font-size: 20px;
+        border: none;
+    }
+    /* #save-btn{
+        background-color: #eb685c;
+        padding-left: 20px;
+        padding-right: 20px;
+        color:#fff;
+        font-weight: 600;
+       
+    }
+    #save-btn:hover{
+         background-color: #e6392a;
+    }
+    #edit-btn{
+        padding-left: 20px;
+        padding-right: 20px;
+        display: none;
+    }
+     #delete-btn{
+        padding-left: 20px;
+        padding-right: 20px;
+       
+    }
+    #edit-btn:hover{
+        background-color: #c9b9b9;
+    }
+    #delete-btn:hover{
+        background-color: #c9b9b9;
+    } */
