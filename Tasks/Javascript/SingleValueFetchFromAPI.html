@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaskTwo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>My Task List</h2>
+    <div id="taskContainer"></div>
+</body>
+<script>
+    let usernames = [];
+
+    fetch('https://api.mockae.com/fakeapi/users?limit=10')
+    .then(response => response.json())
+    .then(data => {
+        usernames = data.map(item => item.firstname);
+
+        // console.log(usernames)
+        showTasks()
+    })
+    .catch((error) => console.log(error));
+
+    function showTasks() 
+    {
+        const taskContainer = document.getElementById("taskContainer");
+        taskContainer.innerHTML = "";
+    
+        usernames.forEach((task, index) => {
+            const card = document.createElement("div");
+            card.className = "taskCard";
+        
+            const taskText = document.createElement("span");
+            taskText.textContent = task;
+        
+            const buttonContainer = document.createElement("div");
+            buttonContainer.className = "buttons";
+        
+            const editButton = document.createElement("button");
+            editButton.textContent = "Edit";
+            editButton.className = "edit";
+
+            editButton.onclick = () => {
+                const input = document.createElement("input");
+                input.type = "text";
+                input.value = task;
+        
+                const okButton = document.createElement("button");
+                okButton.textContent = "OK";
+                okButton.className = "ok";
+
+                okButton.onclick = () => {
+                    usernames[index] = input.value;
+                console.log(usernames)
+
+                    showTasks();
+                };
+    
+                card.innerHTML = "";
+                card.className = "taskCard";
+
+                
+                card.appendChild(input);
+                card.appendChild(okButton);
+                // console.log(card);
+                console.log(usernames)
+
+            };
+
+            const deleteButton = document.createElement("button");
+            deleteButton.textContent = "Delete";
+            deleteButton.className = "delete";
+            deleteButton.onclick = () => {
+                usernames.splice(index, 1);
+                console.log(usernames)
+                showTasks();
+            };
+    
+            buttonContainer.appendChild(editButton);
+            buttonContainer.appendChild(deleteButton);
+            card.appendChild(taskText);
+            card.appendChild(buttonContainer);
+            taskContainer.appendChild(card);
+
+            
+        });
+        };
+</script>
+</html>

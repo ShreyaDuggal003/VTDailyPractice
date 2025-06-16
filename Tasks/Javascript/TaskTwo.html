@@ -1,0 +1,134 @@
+<!--ValueFetchFromAPIs-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaskTwo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>My Task List</h2>
+    <div id="taskContainer"></div>
+</body>
+<script>
+    let userDetails = [];
+
+    function fetchAPI(url)
+    {
+        fetch(url)
+        .then(response => response.json())
+        .then((data)=>{
+            userDetails = data
+            showTasks()
+        })
+        .catch((error) => console.log(error));
+    }
+    
+
+    function showTasks() 
+    {
+        const taskContainer = document.getElementById("taskContainer");
+        taskContainer.innerHTML = "";
+    
+        userDetails.forEach((user, index) => {
+            const card = document.createElement("div");
+            card.className = "taskCard";
+
+            const userInfo = document.createElement("div");
+            userInfo.innerHTML = `Name: ${user.firstname} ${user.lastname}<br>
+                                Email: ${user.email}<br>
+                                Phone: ${user.phone}<br>
+                                City: ${user.city}`;
+        
+            const buttonContainer = document.createElement("div");
+            buttonContainer.className = "buttons";
+        
+            const editButton = document.createElement("button");
+            editButton.textContent = "Edit";
+            editButton.className = "edit";
+
+            editButton.onclick = () => {
+
+                card.innerHTML = ""; 
+ 
+                const fnameInput = createInput(user.firstname);
+                const lnameInput = createInput(user.lastname);
+                const emailInput = createInput(user.email);
+                const phoneInput = createInput(user.phone);
+                const cityInput = createInput(user.city);
+
+
+                const okButton = document.createElement("button");
+                okButton.textContent = "OK";
+                okButton.className = "ok";
+
+                okButton.onclick = () => {
+                    userDetails[index] = {
+                        firstname: fnameInput.value,
+                        lastname: lnameInput.value,
+                        email: emailInput.value,
+                        phone: phoneInput.value,
+                        city: cityInput.value,
+                    };
+
+                    console.log(userDetails)
+
+                    showTasks();
+                };
+
+                card.innerHTML = "";
+                card.className = "taskCard";
+
+                    
+                card.appendChild(fnameInput);
+                card.appendChild(lnameInput);
+                card.appendChild(emailInput);
+                card.appendChild(phoneInput);
+                card.appendChild(cityInput);
+                card.appendChild(okButton);
+                console.log(userDetails)
+
+            };  
+
+            const deleteButton = document.createElement("button");
+            deleteButton.textContent = "Delete";
+            deleteButton.className = "delete";
+            deleteButton.onclick = () => {
+                userDetails.splice(index, 1);
+                console.log(userDetails)
+                showTasks();
+            };
+    
+            buttonContainer.appendChild(editButton);
+            buttonContainer.appendChild(deleteButton);
+            card.appendChild(userInfo);
+            card.appendChild(buttonContainer);
+            taskContainer.appendChild(card);
+        });
+    };
+ 
+    function createInput(value) {
+        const input = document.createElement("input");
+        input.type = "text";
+        input.value = value;
+        return input;
+    }
+
+    const base_url = 'https://api.mockae.com/fakeapi';
+    const endpoints = {
+        getUserDetails : '/users',
+    }
+
+    const paramName = 'limit';
+    const paramValue = 5;
+
+    const url = new URL(base_url + endpoints.getUserDetails);
+    const params = new URLSearchParams();
+    params.set(paramName, paramValue);
+    url.search = params.toString();
+
+    fetchAPI(url)
+
+  </script>
+</html>

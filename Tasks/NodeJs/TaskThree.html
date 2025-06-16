@@ -1,0 +1,180 @@
+<!--ValueFetchFromAPIs-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaskThree</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>My Task List</h2>
+    <div id="taskContainer"></div>
+
+    <script>
+        const base_url = 'http://localhost:8000/api';
+        const userEndpoint = '/users';
+
+        let userDetails = [];
+
+        const cityStateMap = {
+            "Mumbai": "Maharashtra",
+            "Delhi": "Delhi",
+            "Bangalore": "Karnataka",
+            "Chennai": "Tamil Nadu",
+            "Kolkata": "West Bengal"
+        };
+
+        function fetchAPI() {
+            fetch(`${base_url}${userEndpoint}`)
+                .then(res => res.json())
+                .then(data => {
+                    userDetails = data;
+                    showTasks();
+                })
+                .catch(err => console.error("Fetch error:", err));
+        }
+
+        function showTasks() {
+            const container = document.getElementById("taskContainer");
+            container.innerHTML = "";
+
+            userDetails.forEach((user, index) => {
+                const card = document.createElement("div");
+                card.className = "taskCard";
+
+                const nameHeader = document.createElement("div");
+
+                const details = document.createElement("div");
+
+                const userInfo = document.createElement("div");
+                userInfo.innerHTML = `Name: ${user.first_name} ${user.last_name}</p>
+                                      Email: ${user.email}</p>
+                                      City: ${user.city}</p>
+                                      <p>State: ${user.state}</p>`;
+
+                const btnContainer = document.createElement("div");
+                btnContainer.className = "buttons";
+
+                const editBtn = document.createElement("button");
+                editBtn.textContent = "Edit";
+                editBtn.onclick = (e) => {
+                    e.stopPropagation();
+                    showEditForm(user, index, card);
+                };
+
+                const deleteBtn = document.createElement("button");
+                deleteBtn.textContent = "Delete";
+                deleteBtn.onclick = (e) => {
+                    e.stopPropagation();
+                    deleteUser(user.id);
+                };
+
+                btnContainer.appendChild(editBtn);
+                btnContainer.appendChild(deleteBtn);
+                details.appendChild(userInfo);
+                details.appendChild(btnContainer);
+
+               
+                card.appendChild(nameHeader);
+                card.appendChild(details);
+                container.appendChild(card);
+            });
+        }
+
+        function showEditForm(user, index, card) {
+            card.innerHTML = "";
+
+            const fnameInput = createInput(user.first_name, "First Name");
+            const lnameInput = createInput(user.last_name, "Last Name");
+            const emailInput = createInput(user.email, "Email", "email");
+
+            const citySelect = document.createElement("select");
+            Object.keys(cityStateMap).forEach(city => {
+                const option = document.createElement("option");
+                option.value = city;
+                option.textContent = city;
+                if (city === user.city) option.selected = true;
+                citySelect.appendChild(option);
+            });
+
+            const stateInput = createInput(user.state, "State");
+            stateInput.readOnly = true;
+
+            citySelect.onchange = () => {
+                const selectedCity = citySelect.value;
+                stateInput.value = cityStateMap[selectedCity] || "";
+            };
+
+            const saveBtn = document.createElement("button");
+            saveBtn.textContent = "Save";
+
+            saveBtn.onclick = () => {
+                if (!fnameInput.value.trim() || !lnameInput.value.trim() ||
+                    !emailInput.value.trim()) {
+                    alert("All fields are required.");
+                    return;
+                }
+
+                const updatedUser = {
+                    first_name: fnameInput.value.trim(),
+                    last_name: lnameInput.value.trim(),
+                    email: emailInput.value.trim(),
+                    city: citySelect.value,
+                    state: stateInput.value
+                };
+
+                updateUser(user.id, updatedUser);
+            };
+
+            card.appendChild(fnameInput);
+            card.appendChild(lnameInput);
+            card.appendChild(emailInput);
+            card.appendChild(citySelect);
+            card.appendChild(stateInput);
+            card.appendChild(saveBtn);
+        }
+
+        function updateUser(id, updatedUser) {
+            fetch(`${base_url}${userEndpoint}/${id}`, {
+                method: "PATCH",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(updatedUser)
+            })
+                .then(res => {
+                    if (!res.ok) throw new Error("Update failed");
+                    return res.json();
+                })
+                .then(() => fetchAPI())
+                .catch(err => console.error("Update Error:", err));
+        }
+
+        function deleteUser(id) {
+            fetch(`${base_url}${userEndpoint}/${id}`, {
+                method: "DELETE"
+            })
+                .then(res => {
+                    console.log('USING DELETE');
+                    
+                    if (!res.ok) throw new Error("Delete failed");
+                    return res.json();
+                })
+                .then(() => fetchAPI())
+                .catch(err => console.error("Delete Error:", err));
+        }
+
+        function createInput(value, placeholder, type = "text") {
+            const input = document.createElement("input");
+            input.type = type;
+            input.value = value;
+            input.placeholder = placeholder;
+            input.required = true;
+            return input;
+        }
+
+        fetchAPI();
+
+  </script>
+</html>

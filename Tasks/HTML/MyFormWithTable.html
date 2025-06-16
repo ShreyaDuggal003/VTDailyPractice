@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyForm2</title>
+
+    <style>
+        span
+        {
+            color:#ff0000;
+        }
+        
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        table, td, th{
+            border: 1px solid black;
+            width: auto;
+            table-layout: auto;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="heading">Welcome to the form</h1>
+
+    <form id="thisForm" name='myForm'  >
+
+        <label for="fname">Firstname: </label>
+        <input type="text"; placeholder="Firstname"; id="fname"><br/>
+        <span id="fnameError"></span> <br/><br/>
+
+        <label for="lname">Lastname: </label> 
+        <input type="text"; placeholder="Lastname"; id="lname"><br/>
+        <span id="lnameError"></span> <br/><br/>
+
+        <label for="contact">ContactNo.: </label> 
+        <input type="number"; placeholder="Phone"; id="contact"><br/>
+        <span id="contactError"></span> <br/><br/>
+
+        <label for="email">Email: </label> 
+        <input type="text"; placeholder="Email" id="email"><br/>
+        <span id="emailError"></span> <br/><br/>
+
+        <label for="password">Password: </label> 
+        <input type="password"; placeholder="Password"; id="password"><br/> 
+        <span id="passError"></span><br/><br/>
+
+        <label for="cpassword">Confirm Password: </label> 
+        <input type="password"; placeholder="Confirm Password"; id="cpassword"><br/>
+        <span id="cPassError"></span><br/><br/> <br/>
+        
+        <button type="button" onclick="return getdetails()">Submit</button> 
+        <button type="button" onclick="return showTable()">Show Table</button> </br></br>
+
+        <div id="dataTable"></div>
+
+    </form>
+
+    
+
+    <script>
+
+        const formData = [];
+
+        function getdetails()
+        {
+            let fname = document.forms["myForm"]["fname"].value;
+            let lname = document.forms["myForm"]["lname"].value;
+            let contact = document.forms["myForm"]["contact"].value;
+            let email = document.forms["myForm"]["email"].value;
+            let password = document.forms["myForm"]["password"].value;
+            let cpassword = document.forms["myForm"]["cpassword"].value;
+
+            let fnameError = document.getElementById('fnameError');
+            let lnameError = document.getElementById('lnameError'); 
+            let contactError = document.getElementById('contactError');
+            let emailError = document.getElementById('emailError');
+            let passError = document.getElementById('passError');
+            let cPassError = document.getElementById('cPassError');
+
+            let isValid = true;
+
+            if(!checkName(fname, fnameError, lname, lnameError))
+            {
+                isValid = false;
+            }
+            if(!checkContact(contact, contactError))
+            {
+                isValid = false;
+            }
+            if(!checkEmail(email, emailError))
+            {
+                isValid = false;
+            }
+            if(!checkPassword(password, passError, cpassword, cPassError))
+            {
+                isValid = false;
+            }
+            
+            if(isValid)
+            {
+                formData.push({ fname, lname, contact, email, password });
+                alert("Form submitted successfully!");
+                
+                // document.forms["myForm"].reset();
+                 
+                return false;
+            } 
+            else 
+            {
+                return false;
+            }
+        }
+
+        function checkName(fname, fnameError, lname, lnameError)
+        {
+            let isValid = true;
+
+            if (fname == '')
+            {
+                fnameError.innerHTML = "*This field can't remain empty";
+                isValid = false;
+            }
+            else if (fname.length < 3)
+            {
+                fnameError.innerHTML = "Firstname can't be less than 3 characters";
+                isValid = false;
+            }
+            else
+            {
+                fnameError.innerHTML = "";
+            }
+
+
+            if (lname == '')
+            {
+                lnameError.innerHTML = "*This field can't remain empty";
+                isValid = false;
+            }
+            else if (lname.length < 3)
+            {
+                lnameError.innerHTML = "Lastname can't be less than 3 characters";
+                isValid = false;
+            }
+            else
+            {
+                lnameError.innerHTML = "";
+            }
+
+            if (isValid)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+        
+
+        function checkContact(contact, contactError)
+        {
+            if (contact == '' || contact == null)
+            {
+                contactError.innerHTML = "*This field can't remain empty";
+                return false;
+            }
+            else if(contact!='' && contact.length != 10)
+            {
+                contactError.innerHTML = "*Enter number of length 10"; 
+                return false;
+            }
+            else
+            {
+                contactError.innerHTML = "";
+                return true;
+            }
+
+        }
+
+
+        function checkEmail(email, emailError)
+        {
+            if (email == '')
+            {
+                emailError.innerHTML = "*This field can't remain empty";
+                return false;
+            }
+            else if(email != "" && !isEmail(email))
+            {
+                emailError.innerHTML = "*Enter valid email"
+                return false;
+            }
+            else if(email != '' && isEmail(email))
+            {
+                emailError.innerHTML = "";
+                return true;
+            }
+        }
+           
+        
+        function checkPassword(password, passError, cpassword, cPassError)
+        {
+            let isValid = true;
+
+            if (password == "")
+            {
+                passError.innerHTML = "*This field can't remain empty";
+                isValid = false;
+            }
+            else 
+            {
+                passError.innerHTML = "";
+            }
+            
+            if (cpassword == "")
+            {
+                cPassError.innerHTML = "*This field can't remain empty";
+                isValid = false;
+            }
+            else if (!ispasswordValid(password))
+            {
+                passError.innerHTML = "Password must be between 6-20 characters and at least have an uppercase letter, a lowercase letter and a numeric digit"
+                cPassError.innerHTML = "";
+                isValid = false;
+            }
+            else if (ispasswordValid(password) && password != "" && cpassword != "" && password != cpassword)
+            {
+                passError.innerHTML = "*Password doesn't match";
+                cPassError.innerHTML = "*Password doesn't match";
+                isValid = false;
+            }
+            else if (ispasswordValid(password) && password != "" && cpassword != "")
+            {
+                passError.innerHTML = "";
+                cPassError.innerHTML = "";
+            }
+
+            if(isValid)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        function showTable() 
+        {
+            // document.getElementById("thisForm").style.display="none";
+            // document.getElementById("heading").style.display="none";
+
+            let detailTable = "<table><tr><th>First Name</th><th>Last Name</th><th>Contact</th><th>Email</th><th>Password</th></tr>";
+ 
+            formData.forEach(data => {
+                detailTable += `<tr><td>${data.fname}</td><td>${data.lname}</td><td>${data.contact}</td><td>${data.email}</td><td>${data.password}</td></tr>`;
+            });
+ 
+            detailTable += "</table>";
+            document.getElementById("dataTable").innerHTML = detailTable;
+        }
+          
+        function isEmail(email) 
+        {
+            const pattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+            return pattern.test(email);
+        }
+
+        function ispasswordValid(password)
+        {
+            const pattern = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,20}$/;
+            return pattern.test(password);
+        }
+    </script>
+
+</body>
+</html>
