@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shreya",
+    "email": "sd@gmail.com",
+    "password": "$2b$10$b51ZeOTgJmIx8qFXNH21V.BdSXYu2o49p6ENRFzf8di06bgwG7C4e",
+    "role": "admin"
+  },
+  {
+    "name": "ShreyaDuggal",
+    "email": "sduggal@gmail.com",
+    "password": "$2b$10$aGZXL/Z5z30vG9dz.DtM2eZ9UM/WkQBmZmkPFlk5qg1EPxvvRodjW",
+    "role": "admin"
+  },
+  {
+    "name": "Duggal",
+    "email": "shreyaa@gmail.com",
+    "password": "$2b$10$fIayna5E8kTkfYTD8oFX2eZp1BC.7RpfL2.B8ccUOAaeeH1Fj8ovy",
+    "role": "user"
+  }
+]
