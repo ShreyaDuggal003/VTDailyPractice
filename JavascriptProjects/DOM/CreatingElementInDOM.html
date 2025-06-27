@@ -1,35 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CreatingElement</title>
 </head>
+
 <body style="background-color: #212121; color: #f1f1f1f1">
 </body>
-    <script>
-        function createDiv(id, text, textColor)
-        {
-            const div = document.createElement('div');
-            console.log(div)
-            div.className = 'main';
-            div.id = id
+<script>
+    function createDiv(id, text, textColor) {
+        const div = document.createElement('div');
+        console.log(div)
+        div.className = 'main';
+        div.id = id
 
-            div.setAttribute("title", 'generated div')
-            div.innerText = id+".  " +text
+        div.setAttribute("title", 'generated div')
+        div.innerText = id + ".  " + text
 
-            div.style.color = textColor
+        div.style.color = textColor
 
-            document.body.appendChild(div);
-        }
-        
-        const textColor = ['pink', 'green', 'white', 'red', 'orange']
-        const text = ['Hi', 'Hello', 'Listen To', 'BBC', "News"]
-        
-        for(let i=0; i<text.length; i++)
-        {
-            createDiv(i+1, text[i], textColor[i]);
-        }
-        
-    </script>
+        document.body.appendChild(div);
+    }
+
+    const textColor = ['pink', 'green', 'white', 'red', 'orange']
+    const text = ['Hi', 'Hello', 'Listen To', 'BBC', "News"]
+
+    for (let i = 0; i < text.length; i++) {
+        createDiv(i + 1, text[i], textColor[i]);
+    }
+
+</script>
+
 </html>

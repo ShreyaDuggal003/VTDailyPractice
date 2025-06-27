@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EditAndRemoveElements</title>
 </head>
+
 <body style="background-color: #212121; color: #f1f1f1f1">
     <ul class="language">
         <li>Javascript</li>
@@ -12,8 +14,7 @@
 </body>
 <script>
     //Add
-    function addlanguage(lang)
-    {
+    function addlanguage(lang) {
         const li = document.createElement('li');
         // li.innerHTML = lang //not optimised
 
@@ -37,8 +38,8 @@
         newLi.appendChild(document.createTextNode(lang));
         secondLang.replaceWith(newLi);
     }
-    
-    editlanguageOne('C++',3)
+
+    editlanguageOne('C++', 3)
 
     function editlanguageTwo() //Method2
     {
@@ -48,8 +49,7 @@
 
     // editlanguageTwo()
 
-    function removeLanguage()
-    {
+    function removeLanguage() {
         const last = document.querySelector("li:last-child")
         last.remove();
     }
@@ -57,4 +57,5 @@
     // removeLanguage();
 
 </script>
+
 </html>

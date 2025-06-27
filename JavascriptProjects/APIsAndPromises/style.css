@@ -1,18 +1,19 @@
- #taskCard{
-            border: 1px solid grey;
-            width: 70vh;
-            min-height: 10vh;
-            margin: 120px;
-            padding-left:  10px;
-            padding-right: 10px;
-            padding-top: 15px;
-            padding-bottom: 15px;
-            border-radius: 10px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-        }
-        /* input{
+ #taskCard {
+     border: 1px solid grey;
+     width: 70vh;
+     min-height: 10vh;
+     margin: 120px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     border-radius: 10px;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+ }
+
+ /* input{
         border: none;
         font-size: 20px;
         padding: 5px;
@@ -24,18 +25,20 @@
             width: 100%;
             field-sizing: content;
         } */
-    #btn{
-        display: flex;
-        gap: 15px;
-        justify-content: right;
-    }
-    .button{
-        padding: 13px;
-        border-radius: 5px;
-        font-size: 20px;
-        border: none;
-    }
-    /* #save-btn{
+ #btn {
+     display: flex;
+     gap: 15px;
+     justify-content: right;
+ }
+
+ .button {
+     padding: 13px;
+     border-radius: 5px;
+     font-size: 20px;
+     border: none;
+ }
+
+ /* #save-btn{
         background-color: #eb685c;
         padding-left: 20px;
         padding-right: 20px;

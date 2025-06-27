@@ -1,53 +1,53 @@
 //OBJECTS
 
-// let fruits = "apple";
-// let veggies = "abc";
+let fruits = "apple";
+let veggies = "abc";
 
-// let user = {[fruits] : 5,
-//             [veggies] : 10, 
-// };
+let type = {
+    [fruits]: 5,
+    [veggies]: 10,
+};
 
-// console.log(user);
+console.log(type);
 
-// function isUser(name, age)
-// {
-//     return {name, age};
-// }
+function isUser(name, age) {
+    return { name, age };
+}
 
-// let user = isUser("Shreya", 22);
-// console.log(user);
+let user = isUser("Shreya", 22);
+console.log(user);
 
-// let user = { 0 : "hi", return : "hello"};
-// console.log (user);
+let user1 = { 0: "hi", return: "hello" };
+console.log(user1);
 
 
 //MULTI-WORD PROPERTY
-// let user = {name: "John", age: 30, ["like birds"]: false, human: true};
+let user2 = { name: "John", age: 30, ["like birds"]: false, human: true };
 
-// console.log ("name" in user);
-// for (let key in user)
-// {
-//     console.log("K: " + key); //key
-//     console.log(`V: ${user[key]}`); //value
-// }
+console.log("name" in user);
+for (let key in user2) {
+    console.log("K: " + key); //key
+    console.log(`V: ${user2[key]}`); //value
+}
 
 
 //ORDERING
-// let obj = {5 : "USA", 8: "India", 6: "Bangla", 1: "Aus"}
-// console.log(obj); //ordered if key is integer
+let obj = { 5: "USA", 8: "India", 6: "Bangla", 1: "Aus" }
+console.log(obj); //ordered if key is integer
 
 
 //NESTED OBJECTS
-// let obj = {name: "John",
-//            cars: {car1 : "bmw", car2: "audi"}
-// };
-// console.log(obj.cars.car1);
-// console.log(obj["cars"]["car2"]);
+let obj1 = {
+    name: "John",
+    cars: { car1: "bmw", car2: "audi" }
+};
+console.log(obj1.cars.car1);
+console.log(obj1["cars"]["car2"]);
 
 
 //JOIN OBJECTS
-// let obj = {fname: "John", lname: "Doe", age: 30, fullname: function() { return this.fname +" "+ obj.lname} };
-// console.log(obj); 
+let obj2 = { fname: "John", lname: "Doe", age: 30, fullname: function () { return this.fname + " " + obj.lname } };
+console.log(obj2);
 
 
 //CLONING OBJECTS

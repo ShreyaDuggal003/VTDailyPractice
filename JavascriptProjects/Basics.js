@@ -29,7 +29,7 @@
 // {
 //     alert("Welcome to adult life");
 // }
-// else 
+// else
 // {
 //     alert("Hows adulting");
 // }
@@ -66,7 +66,7 @@
 // let a = +prompt('a?', '');
 // switch (a)
 // {
-//     case 0: 
+//     case 0:
 //        alert(0);
 //        break;
 //     case 1:

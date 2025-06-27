@@ -1,28 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AddingData</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <button class="button" id="btn" type="button" onclick="getRequest()">Send Request</button><br/><br/>
+    <button class="button" id="btn" type="button" onclick="getRequest()">Send Request</button><br /><br />
 </body>
 <script>
-    function getRequest()
-    {
+    function getRequest() {
         const requestUrl = 'https://api.github.com/users/theshreyaduggal'
         const xhr = new XMLHttpRequest(); //need to make an obj of the request
 
         xhr.open('GET', requestUrl); //open function is created 
 
         //function is to be created to get continuous changing state
-        xhr.onreadystatechange = function () 
-        {
-            if (xhr.readyState === 4)
-            {
-                const data = JSON.parse(this.responseText); 
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                const data = JSON.parse(this.responseText);
                 createElement(data);
                 console.log(data);
             }
@@ -30,8 +29,7 @@
         xhr.send();
     }
 
-    function createElement(data)
-    {
+    function createElement(data) {
         const img = document.createElement('IMG');
         const h3 = document.createElement('h3')
         const h4 = document.createElement('h3')
@@ -47,4 +45,5 @@
         document.body.appendChild(h4);
     }
 </script>
+
 </html>
